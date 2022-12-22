@@ -15,6 +15,9 @@
   font-size: 3rem;
   color: #00975a;
 }
+.main-section h2.red {
+  color: red;
+}
 .main-section button {
   padding: 10px 30px;
   color: white;
@@ -23,10 +26,10 @@
 }
 #increment {
   background-color: #00975a;
-  margin-right: 15px;
 }
 #decrement {
   background-color: red;
+  margin-right: 15px;
 }
 #reset {
   background-color: gray;
